@@ -1,0 +1,7 @@
+*.log
+*.o
+*.ko
+*.cmd
+*.dwo
+*.mod
+
