@@ -1,1 +1,0 @@
-cmd_/home/andrew/Desktop/systemCoding/chp1/helloworld.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/andrew/Desktop/systemCoding/chp1/helloworld.ko /home/andrew/Desktop/systemCoding/chp1/helloworld.o /home/andrew/Desktop/systemCoding/chp1/helloworld.mod.o;  true

@@ -1,1 +1,0 @@
-cmd_/home/andrew/Desktop/systemCoding/chp3/user-invoke.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/andrew/Desktop/systemCoding/chp3/user-invoke.ko /home/andrew/Desktop/systemCoding/chp3/user-invoke.o /home/andrew/Desktop/systemCoding/chp3/user-invoke.mod.o;  true
