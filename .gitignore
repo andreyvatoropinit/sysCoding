@@ -4,4 +4,5 @@
 *.cmd
 *.dwo
 *.mod
-
+*.symvers
+*.order
