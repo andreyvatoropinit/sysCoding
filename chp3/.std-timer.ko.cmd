@@ -1,0 +1,1 @@
+cmd_/home/andrew/Desktop/systemCoding/chp3/std-timer.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/andrew/Desktop/systemCoding/chp3/std-timer.ko /home/andrew/Desktop/systemCoding/chp3/std-timer.o /home/andrew/Desktop/systemCoding/chp3/std-timer.mod.o;  true
